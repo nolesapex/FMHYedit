@@ -21,6 +21,7 @@
 ## ▷ Dedicated Hosts
 
 * **[Soap2Day](https://soapgate.org/)** - Movies / TV
+* **[DopeBox] (https://dopebox.to/home)** - Movies / TV
 * **[EE3](https://ee3.me/)** - Movies / Invite Code: mpgh or 1hack
 * **[Oligopoly](https://olgply.com/)** - Movies / TV
 * **[PrivateHD](https://www.privatehd.xyz/)** - Movies / TV
